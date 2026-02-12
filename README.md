@@ -151,8 +151,6 @@ Durante o desenvolvimento deste projeto foi possível:
 * Atualizar a interface utilizando JavaScript
 * Trabalhar lógica de programação aplicada a uma situação real
 
----
-
 
 ---
 

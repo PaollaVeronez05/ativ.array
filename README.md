@@ -76,29 +76,29 @@ let frutas = ["Maçã", "Banana", "Laranja"];
 
 ---
 
- push()
+🔹 push()
 
 Adiciona um novo elemento ao final do array.
 
 ---
 
- pop()
+🔹 pop()
 
 Remove o último elemento do array.
 
 ---
 
-length
+🔹length
 
 Retorna a quantidade de elementos existentes no array.
 
 ---
 
- join()
+🔹 join()
 
 Transforma os elementos do array em uma única string para exibição na tela.
 
-Exemplo:
+🔹Exemplo:
 
 ```javascript
 frutas.join(", ");
@@ -106,7 +106,7 @@ frutas.join(", ");
 
 ---
 
-Manipulação do DOM
+🔹Manipulação do DOM
 
 O sistema utiliza JavaScript para atualizar dinamicamente o conteúdo da página, garantindo que as alterações no array sejam refletidas imediatamente na interface.
 
